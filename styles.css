@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
 body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
     font-family: sans-serif;
@@ -52,7 +54,7 @@ hr {
 
 h1,
 h2 {
-    font-family: Impact, serif;
+    font-family: 'Anton', sans-serif;
 }
 
 .item p {
